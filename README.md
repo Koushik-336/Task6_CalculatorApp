@@ -1,4 +1,4 @@
-# splashscreen
+# claculator
 
 A new Flutter project.
 
